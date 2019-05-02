@@ -2,9 +2,9 @@
 <DBconifg>
 <DataBase>
 		<driver>com.mysql.jdbc.Driver</driver>
-		<url>jdbc:mysql://www.wuhen6.com/expert_sys</url>
-		<user>expert_sys</user>
-		<password>expert</password>
+		<url>jdbc:mysql://localhost/expert_sys</url>
+		<user>root</user>
+		<password></password>
 </DataBase>
 
 </DBconifg>
