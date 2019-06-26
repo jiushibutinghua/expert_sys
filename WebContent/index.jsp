@@ -13,7 +13,7 @@
                 <meta charset="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-                <title>见微医智</title>
+                <title>家庭医生专家系统</title>
 
                 <link rel="shortcut icon" href="images/favicon.png" />
 
@@ -38,17 +38,6 @@
                 <div class="header-wrapper">
                         <header>
                                 <div class="container">
-
-
-                                        <div class="logo-container">
-                                                <!-- Website Logo -->
-                                                <a href="index.html"  title="Knowledge Base Theme">
-                                                        <img src="images/logo.png" alt="Knowledge Base Theme">
-                                                </a>
-                                                <span class="tag-line">见微知著，众医集智</span>
-                                        </div>
-
-
                                         <!-- Start of Main Navigation -->
                                         <nav class="main-nav">
                                                 <div class="menu-top-menu-container">
@@ -56,19 +45,11 @@
                                                                 <li class="current-menu-item"><a href="index.jsp">首页</a></li>
                       <li><a href="index.jsp">由病找药</a></li>
                                                                 <li><a href="searchMedicine.jsp">药品查询</a></li>
-                                                               <li><a href="#">技术说明</a>
-                                                                        <ul class="sub-menu">
-                                                                                <li><a href="#">实现原理</a></li>
-                                                                                <li><a href="#">参考资料</a></li>
-                                                                              <li><a href="resource/java/jdk8-api/index.html">Java API</a></li>  
-                                                                        </ul>
-                                                                </li>
                                                                 <li><a href="contact.html">联系我们</a></li>
                                                         </ul>
                                                 </div>
                                         </nav>
                                         <!-- End of Main Navigation -->
-
                                 </div>
                         </header>
                 </div>
@@ -77,7 +58,7 @@
                 <!-- Start of Search Wrapper -->
                 <div class="search-area-wrapper">
                         <div class="search-area container">
-                                <h3 class="search-header">见 微 知 著 ， 众 医 集 智</h3>
+                                <h3 class="search-header">您的家庭医生</h3>
                                 <p class="search-tag-subhead">医药专家系统将根据您的输入，为您提供最合适的医药治疗方案</p>
 
                                 <form id="search-form" class="search-form clearfix" method="post" action="./getDiagnoseList" autocomplete="off">
@@ -88,7 +69,7 @@
                         </div>
                 </div>
                 <!-- End of Search Wrapper -->
-                <div class="copyrights">由 <a href="http://www.cssmoban.com/" title="见微医智">见微医智</a>提供服务</div>
+                <div class="copyrights">由 <a href="#" title="见微医智">刘婉玉同学</a>提供服务</div>
 
                 <!-- Start of Page Container -->
                 <div class="page-container">
@@ -209,16 +190,8 @@
                        <li class="current-menu-item"><a href="index.jsp">首页</a></li>
                       <li><a href="index.jsp">由病找药</a></li>
                                                                 <li><a href="searchMedicine.jsp">药品查询</a></li>
-                                                               <li><a href="#">技术说明</a></li>
                                                                 </ul>
                                                         </div>
-                                                </section>
-
-                                                <section class="widget">
-                                                        <h3 class="title">标签</h3>
-                                                        <div class="tagcloud">
-                                                                <a href="#" class="btn btn-mini">感冒</a>                       <a href="#" class="btn btn-mini">头痛</a>                       <a href="#" class="btn btn-mini">腰酸</a>                       <a href="#" class="btn btn-mini">抽筋</a>                       <a href="#" class="btn btn-mini">听力弱</a>                       <a href="#" class="btn btn-mini">鼻炎</a>                       <a href="#" class="btn btn-mini">肚子痛</a>                       <a href="#" class="btn btn-mini">身体犯困</a>
-                   </div>
                                                 </section>
 
                                         </aside>
@@ -284,7 +257,7 @@
                                         <div class="row">
                                                 <div class="span6">
                                                         <p class="copyright">
-                                                                Copyright © 2017. All Rights Reserved by<a href="#" title="见微医治" target="_blank">见微医智</a>. 
+                                                                Copyright © 2017. All Rights Reserved by<a href="#" title="刘婉玉同学" target="_blank">刘婉玉同学</a>. 
                                                         </p>
                                                 </div>
                                                 <div class="span6">
